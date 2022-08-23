@@ -6,3 +6,4 @@ d={"name":"suman","mail":"sumanvh007@gmail.com","surname":"vh"}
 db1=client["mangotest"]
 coll=db1.test
 coll.insert_one(d)
+gnsgakmgfl;a,
